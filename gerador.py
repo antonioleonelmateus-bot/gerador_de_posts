@@ -5,7 +5,13 @@ temas = [
     "O impacto do tempo e dos imprevistos na nossa carreira",
     "Como a ética e a honestidade constroem uma reputação indestrutível",
     "A diferença prática entre agir por impulso e agir com sabedoria",
-    "Por que esperar pelas condições perfeitas é a maior armadilha"
+    "Por que esperar pelas condições perfeitas é a maior armadilha",
+    "A importância de construir relacionamentos autênticos e duradouros",
+    "Como transformar fracassos em lições valiosas para o crescimento",
+    "O poder da consistência: pequenas ações geram grandes resultados",
+    "Por que sair da zona de conforto é essencial para evoluir",
+    "A mentalidade de abundância versus a mentalidade de escassez",
+    "Como manter a foco e a disciplina em tempos de distração"
 ]
 
 gatilhos = [
@@ -30,4 +36,3 @@ print(f"👉 TEMA PRINCIPAL: {tema_escolhido}")
 print(f"🧠 FOCO EMOCIONAL: {gatilho_escolhido}")
 print(f"🏷️ HASHTAG SUGERIDA: {tag_escolhida}")
 print("="*45 + "\n")
-
